@@ -1,0 +1,29 @@
+body {
+	background-color: #3B6064;
+	padding: 2vw;
+	color: white;
+}
+
+.mx-auto {
+	width: 10vw;
+	height: 10vw;
+	object-fit: cover;
+}
+
+.container {
+	padding-left: 10vw;
+	padding-right: 10vw;
+}
+
+h1 {
+	font-family: fredoka;
+	text-align: text-center;
+}
+
+h2 {
+	font-family: fredoka;
+}
+
+p {
+	font-family: fredoka;
+}
